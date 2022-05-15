@@ -1,6 +1,5 @@
 ### Welcome to my github 👋
-<a>Hi, I’m @BlAyMid.
-          I’m 17 years old and I’m from Russian</a>       
+<a>Hi, I’m @BlAyMid.</a>       
 
           
           
