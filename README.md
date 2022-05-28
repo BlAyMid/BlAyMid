@@ -1,7 +1,6 @@
 ### Welcome to my github 👋
 
 ![](https://komarev.com/ghpvc/?username=BlAyMid)
-
 ## I’m @BlAyMid.       
 
           You can contact with me: 
