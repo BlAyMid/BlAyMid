@@ -1,5 +1,6 @@
 ### Welcome to my github 👋
-<a>Hi, I’m @BlAyMid.</a>       
+![](https://komarev.com/ghpvc/?username=BlAyMid)
+###I’m @BlAyMid.</a>       
 
           
           
