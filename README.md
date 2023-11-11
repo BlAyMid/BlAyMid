@@ -124,7 +124,7 @@ Some about me:
         <p>Send me some message</p>
     </section>
     <section>
-        <a href="https://t.me/blzmd">
+        <a href="https://t.me/blmzd">
             <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
         <a href="mailto:blaymid@gmail.com?subject=Hello%20Blaymid,%20From%20Github">
